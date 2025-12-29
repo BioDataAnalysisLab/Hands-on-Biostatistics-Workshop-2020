@@ -13,6 +13,6 @@ Trainers: Dr. Eliana Ibrahimi, Lecturer and Researcher in Biostatistics,  Univer
 
 Sofie Van Waes MD, Biostatistician, Dice Cro, Belgium
 
-Website [link] (https://sites.google.com/fshn.edu.al/hob/events-training/hob-2020?authuser=1)
+Website [link](https://sites.google.com/fshn.edu.al/hob/events-training/hob-2020?authuser=1)
 
                                                                                      					
